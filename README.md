@@ -75,12 +75,23 @@
 </p>
 
 
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayr-12&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues&card_width=350" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayr-12&layout=compact&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=350" width="350" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=sanjayr-12&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+    width="400"
+    alt="All-time GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayr-12&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    width="400"
+    alt="Most used languages"
+  />
 </p>
+
+
 
 <h2 align="center">Social</h2>
 
