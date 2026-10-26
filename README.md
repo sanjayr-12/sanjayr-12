@@ -85,7 +85,7 @@
 <h2 align="center">Social</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-r-ab6064294/">
+  <a href="https://www.linkedin.com/in/sanjay-npc/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@sanjayxr">
